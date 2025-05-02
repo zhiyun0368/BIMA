@@ -27,8 +27,8 @@
 
   <script>
     const phrases = {
-      "jumpa lagi": "https://www.figma.com/proto/qv2LYsbEHpDjXtkTnpOnlP/Untitled--Copy-?node-id=29-302&t=JCiDsIBgDx0fdHdi-1", // contoh pautan
-      "selamat pagi": "https://www.figma.com/proto/qv2LYsbEHpDjXtkTnpOnlP/Untitled--Copy-?node-id=29-169&t=er3c4XTsWvRlomlR-1"
+      "jumpa lagi": "https://www.figma.com/proto/qv2LYsbEHpDjXtkTnpOnlP/Untitled--Copy-?node-id=29-302&p=f&t=86cvc6a5wJ57Eyt9-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A4", // contoh pautan
+      "selamat pagi": "https://www.figma.com/proto/qv2LYsbEHpDjXtkTnpOnlP/Untitled--Copy-?node-id=29-169&p=f&t=86cvc6a5wJ57Eyt9-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A4"
     };
 
     function startListening() {
